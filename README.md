@@ -8,3 +8,6 @@ Generate the visible ASCII characters, and their corresponding representations i
 - HTML
 - ASCII symbol
 
+## Example
+
+![Example](./example.png)
